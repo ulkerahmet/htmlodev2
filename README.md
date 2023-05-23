@@ -7,6 +7,3 @@
 - div ve span etiketleri öğrenildi, ödevde div etiketi kullanıldı.
 
 [Ödeve ulaşmak için tıklayınız.](https://github.com/ulkerahmet/htmlodev2)
-
-
-![Ödevin Son Hali](image/screenshot.png)
